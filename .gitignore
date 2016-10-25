@@ -1,12 +1,9 @@
-# General System Files #
+*.iml
+.idea
+target
+tmp
+logs
+dependency-reduced-pom.xml
+velocity.log
 *~
-*\.DS_Store
-*#*#
-*.swp
-info
-
-# Package Files #
-**/target/
-
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
+build.log
